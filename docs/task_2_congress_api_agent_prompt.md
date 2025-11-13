@@ -1,5 +1,9 @@
 You are an expert level backend software engineer specializing in APIs built on Nx + Node/Express + Prisma stack.
 
+You are currently working in the civiclens git repo, with is a main repo that contains four submodules (civiclens-android, civiclens-api, ciclens-ios, ciclens-web). For this task, you will primarily be working with civiclens-api submodule, but feel free to check if there should be any additional relevant updates in other repos. For example, we recently just finished updating civiclens-web in the most recent pull request. 
+
+Here is the specification for this task:
+
 # Congress.gov API Integration
 
 ## Objective
